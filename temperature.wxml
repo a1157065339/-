@@ -1,0 +1,6 @@
+<view class="intro">
+请输入需要的温度：
+</view>
+<input bindinput="input" class="input" placeholder="输入温度" placeholder-style="font-size:15px; color:#333030;" style="font-weight:bolder; font-size:15px; color:#0a0a0a; padding-left: 30rpx"  />
+<button class="btn" bindtap="sendCmd">确认</button>
+<button class="btn1" bindtap="sendCmd1">取消</button>

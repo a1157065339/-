@@ -1,0 +1,28 @@
+.intro {
+  padding: 24px 10%;
+  color: #0a0a0a;
+  line-height: 1.5;
+  position:absolute;
+  height:100rpx;
+  top:1%;
+}
+.input {
+  background-color:#f3f710;
+  width: 60%;
+  height: 88rpx;
+  top: 10%;
+  left: 18%;
+  position: absolute;
+}
+.btn1{
+  width: 60%;
+  top:80%;
+  color:#080808;
+  background-color: crimson;
+}
+.btn{
+  top:75%;
+  width:60%;
+  color:#080808;
+  background-color: chartreuse;
+}
